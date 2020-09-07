@@ -1,0 +1,26 @@
+[0m[[0minfo[0m] [0m[32mPascalSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: recfun.PascalSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.ExceptionInInitializerError:[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply$mcV$sp(PascalSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply(PascalSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply(PascalSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:166)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1122)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  Cause: java.lang.ArithmeticException: / by zero[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.<init>(Main.scala:25)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.<clinit>(Main.scala)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply$mcV$sp(PascalSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply(PascalSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply(PascalSuite.scala:13)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

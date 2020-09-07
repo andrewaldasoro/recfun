@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/home/guest/scala/coursera/recfun/src/main/scala/recfun/Main.scala:20:22: recursive method loop needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m                else loop(acc * n, n - 1)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/guest/scala/coursera/recfun/src/main/scala/recfun/Main.scala:21:9: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
